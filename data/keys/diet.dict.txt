@@ -1,0 +1,193 @@
+category	label	unit	type
+Energy	A_BEV	# of drinks Double	Primary
+Energy	A_CAL	kcal	Double
+Other	acesupot	mg	Double
+Carbohydrates	ADD_SUG	teaspoons	Double
+Carbohydrates	addsugar	g	Double
+Amino Acids	alanine	g	Double
+Energy	alcohol	g	Double
+Carotenoids	alphacar	mcg	Double
+Vitamins	alphtoce	mg	Double
+Vitamins	alphtoco	mg	Double
+Amino Acids	arginine	g	Double
+Other	ash	g	Double
+Other	aspartam	mg	Double
+Amino Acids	aspartic	g	Double
+Energy	avcarb	g	Double
+Carotenoids	betacar	mcg	Double
+Carotenoids	betacryp	mcg	Double
+Other	betaine	mg	Double
+Vitamins	betatoco	mg	Double
+Isoflavones	biochana	mg	Double
+Other	caffeine	mg	Double
+Minerals	calcium	mg	Double
+calcium	Calcium	Double	Primary
+Energy	carbo	g	Double
+Cholesterol	cholest	mg	Double
+Other	choline	mg	Double
+Fatty Acids	clac9t11	g	Double
+Fatty Acids	clat10c12	g	Double
+Minerals	copper	mg	Double
+Isoflavones	coumest	mg	Double
+Amino Acids	cystine	g	Double
+Dairy	D_CHEESE	cups	Double
+Dairy	D_MILK	cups	Double
+Dairy	D_TOT_SOYM	cups	Double
+Dairy	D_TOTAL	cups	Double
+Dairy	D_YOGURT	cups	Double
+Isoflavones	daidzein	mg	Double
+Vitamins	delttoco	mg	Double
+Energy	DISCFAT_OIL	g	Double
+Energy	DISCFAT_SOL	g	Double
+Polyvols	erythr	g	Double
+Fruit	F_CITMLB	cups	Double
+Fruit	F_NJ_CITMLB	cups	Double
+Fruit	F_NJ_OTHER	cups	Double
+Fruit	F_NJ_TOTAL	cups	Double
+Fruit	F_OTHER	cups	Double
+Fruit	F_TOTAL	cups	Double
+Energy	fat	g	Double
+Fiber	fiber	g	Double
+Fiber	fibh2o	g	Double
+Fiber	fibinso	g	Double
+Vitamins	fol_deqv	mcg	Double
+Vitamins	fol_nat	mcg	Double
+Vitamins	fol_syn	mcg	Double
+Isoflavones	formontn	mg	Double
+Carbohydrates	fructose	g	Double
+Whole grains	G_NWHL	equivalent Double	oz
+Whole grains	G_TOTAL	equivalent Double	oz
+Whole grains	G_WHL	equivalent Double	Carbohydrates
+Carbohydrates	galactos	g	Double
+Vitamins	gammtoco	mg	Double
+Isoflavones	genistn	mg	Double
+Glycemic Load	GLAC	-	Double
+Glycemic Load	GLTC	-	Double
+Carbohydrates	glucose	g	Double
+Amino Acids	glutamic	g	Double
+Amino Acids	glycine	g	Double
+Isoflavones	glycitn	mg	Double
+Other	grams	g	Double
+Amino Acids	histidin	g	Double
+Polyvols	inositol	g	Double
+Minerals	iron	mg	Double
+Amino Acids	isoleuc	g	Double
+Polyvols	isomalt	g	Double
+Energy	joules	kj	Double
+Polyvols	lactitol	g	Double
+Carbohydrates	lactose	g	Double
+Legumes	LEGUMES	cups	Double
+Amino Acids	leucine	g	Double
+Glycemic Load	LineGi	-	Double
+Carotenoids	lutzeax	mcg	Double
+Carotenoids	lycopene	mcg	Double
+Amino Acids	lysine	g	Double
+Protein	M_EGG	ounces	Double
+Protein	M_FISH_HI	ounces	Double
+Protein	M_FISH_LO	ounces	Double
+Protein	M_FRANK	ounces	Double
+Protein	M_MEAT	ounces	Double
+Protein	M_MPF	ounces	Double
+Protein	M_NUTSD	ounces	Double
+Protein	M_ORGAN	ounces	Double
+Protein	M_POULT	ounces	Double
+Protein	M_SOY	ounces	Double
+Minerals	magnes	mg	Double
+Polyvols	maltitol	g	Double
+Carbohydrates	maltose	g	Double
+Minerals	mangan	mg	Double
+Polyvols	mannitol	g	Double
+Other	methhis3	mg	Double
+Amino Acids	methion	g	Double
+Fatty Acids	mfa141	g	Double
+Fatty Acids	mfa161	g	Double
+Fatty Acids	mfa181	g	Double
+Fatty Acids	mfa201	g	Double
+Fatty Acids	mfa221	g	Double
+Cholesterol	mfatot	g	Double
+Vitamins	natoco	mg	Double
+Other	nccglbr	-	Double
+Other	nccglgr	-	Double
+Vitamins	niacin	mg	Double
+Vitamins	niacineq	mg	Double
+Other	nitrogen	g	Double
+Fatty Acids	omega3	g	Double
+Other	oxalic	mg	Double
+Other	oxalicm	mg	Double
+Vitamins	pantothe	mg	Double
+Fiber	pectins	g	Double
+Fatty Acids	pfa182	g	Double
+Fatty Acids	pfa183	g	Double
+Fatty Acids	pfa184	g	Double
+Fatty Acids	pfa204	g	Double
+Fatty Acids	pfa225	g	Double
+Fatty Acids	pfa226	g	Double
+Cholesterol	pfatot	g	Double
+Amino Acids	phenylal	g	Double
+Minerals	phosphor	mg	Double
+Other	phytic	mg	Double
+Polyvols	pinitol	g	Double
+Minerals	potass	mg	Double
+Amino Acids	proline	g	Double
+Energy	protanim	g	Double
+Energy	protein	g	Double
+Energy	protveg	g	Double
+Vitamins	retinol	mcg	Double
+Vitamins	ribofla	mg	Double
+Other	sacchar	mg	Double
+Vitamins	satoco	mg	Double
+Minerals	selenium	mcg	Double
+Amino Acids	serine	g	Double
+Fatty Acids	sfa100	g	Double
+Fatty Acids	sfa120	g	Double
+Fatty Acids	sfa140	g	Double
+Fatty Acids	sfa160	g	Double
+Fatty Acids	sfa170	g	Double
+Fatty Acids	sfa180	g	Double
+Fatty Acids	sfa200	g	Double
+Fatty Acids	sfa220	g	Double
+Fatty Acids	sfa40	g	Double
+Fatty Acids	sfa60	g	Double
+Fatty Acids	sfa80	g	Double
+Cholesterol	sfatot	g	Double
+Minerals	sodium	mg	Double
+Polyvols	sorbitol	g	Double
+Carbohydrates	starch	g	Double
+Other	sucpoly	g	Double
+Carbohydrates	sucrlose	mg	Double
+Carbohydrates	sucrose	g	Double
+Carbohydrates	tagatose	mg	Double
+Fatty Acids	tfa161t	g	Double
+Fatty Acids	tfa181t	g	Double
+Fatty Acids	tfa182t	g	Double
+Vitamins	thiamin	mg	Double
+Amino Acids	threonin	g	Double
+Cholesterol	totaltfa	g	Double
+Cholesterol	totcla	g	Double
+Vitamins	totfolat	mcg	Double
+Carbohydrates	totsugar	g	Double
+Amino Acids	tryptoph	g	Double
+Amino Acids	tyrosine	g	Double
+Vegetables	V_DRKGR	cups	Double
+Vegetables	V_ORANGE	cups	Double
+Vegetables	V_OTHER	cups	Double
+Vegetables	V_POTATO	cups	Double
+Vegetables	V_STARCY	cups	Double
+Vegetables	V_TOMATO	cups	Double
+Vegetables	V_TOTAL	cups	Double
+Amino Acids	valine	g	Double
+Vitamins	vita_iu	IU	Double
+Vitamins	vita_rae	mcg	Double
+Vitamins	vita_re	Double	Vitamins
+Vitamins	vitb12	mcg	Double
+Vitamins	vitb6	mg	Double
+Vitamins	vitc	mg	Double
+Vitamins	vitd	mcg	Double
+Vitamins	vitd_iu	IU	Double
+Vitamins	vitd2	mcg	Double
+Vitamins	vitd3	mcg	Double
+Vitamins	vite_iu	IU	Double
+Vitamins	vitk	mcg	Double
+Other	water	g	Double
+Polyvols	xylitol	g	Double
+Minerals	zinc	mg	Double
