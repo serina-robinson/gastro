@@ -32,7 +32,7 @@ A sample executable `combo.gastro.r` is located in the `bin` directory
 
 All results are written to the output directory
 
-<img src="https://github.com/serina-robinson/gastro/blob/master/output/heatmap.pdf" alt="gastro-heatmap">
+<img src="https://github.com/serina-robinson/gastro/blob/master/output/heatmap.png" alt="gastro-heatmap">
 
 
 
