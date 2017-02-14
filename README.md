@@ -6,12 +6,9 @@ R scripts for visualization and exploratory data analysis of diet/microbiome dat
 The following packages are required. Packages can be installed and loaded using the following commands:
 
 ``` 
-source("https://bioconductor.org/biocLite.R")
-biocLite("phyloseq")
-packs <- c("ggthemes","Hmisc","RColorBrewer","ggplot2","openxlsx",
-           "phyloseq","pdftools","biom","stringr","reshape2","data.table") 
-lapply(packs, install.packages, character.only = TRUE) 
-lapply(packs, library, character.only = TRUE) 
+packs<-c("biom","ggplot2","RColorBrewer","ggthemes")
+lapply(packs, install.packages, character.only = TRUE)
+lapply(packs, require, character.only = TRUE) 
 
 ``` 
 
@@ -35,7 +32,7 @@ A sample executable `combo.gastro.r` is located in the `bin` directory
 
 All results are written to the output directory
 
-<img src="https://github.umn.edu/robi0916/GastRo/blob/master/output/heatmap.png" alt="gastro-heatmap">
+<img src="https://github.com/serina-robinson/gastro/blob/master/output/heatmap.pdf" alt="gastro-heatmap">
 
 
 
